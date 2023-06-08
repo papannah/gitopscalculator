@@ -19,8 +19,7 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.projectKey>NidaAP_gitopscalculator</sonar.projectKey>
-		<sonar.organization>nidaap</sonar.organization>
+		<sonar.organization>he329178</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 	</properties>
@@ -123,8 +122,8 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<name>GitHub NidaAP Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/nidaap/gitopscalculator</url>
+			<name>GitHub Hema Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/papannah/gitopscalculator</url>
 		</repository>
 	</distributionManagement>
 </project>
