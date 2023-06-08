@@ -118,12 +118,11 @@
 			</plugin>
 		</plugins>
 	</build>
-
-	<distributionManagement>
-		<repository>
-			<id>github</id>
-			<name>GitHub Hema Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/papannah/gitopscalculator</url>
-		</repository>
-	</distributionManagement>
+<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>a0lsxnrzcvk9c-artifactory-primary-0-snapshots</name>
+        <url>https://papannah.jfrog.io/artifactory/libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
