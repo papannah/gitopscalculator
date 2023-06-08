@@ -29,4 +29,4 @@
 =======
 © 2021 GitHub, Inc.
 T
->>>>>>> branch 'master' of https://github.com/NidaAP/gitopscalculator.git
+>>>>>>> branch 'main' of https://github.com/papannah/gitopscalculator.git
